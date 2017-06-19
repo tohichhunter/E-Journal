@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SummaryTask4">
+  <Resource auth="Container" driverClassName="org.postgresql.Driver" maxIdle="20" maxTotal="60" name="jdbc/confluence" password="ilovedicks" type="javax.sql.DataSource" url="jdbc:postgresql://localhost:5432/epam_summary" username="postgres" validationQuery="select 1"/>
+</Context>
